@@ -1,0 +1,11 @@
+movieId,title,genres,pagerank_norm,final_score
+159779,A Midsummer Night's Dream (2016),(no genres listed),0.9598926567454104,0.9719248597217872
+260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,1.0,0.7
+1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,0.9999999999999555,0.6999999999999688
+1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,0.9999999999999373,0.6999999999999561
+1527,"Fifth Element, The (1997)",Action|Adventure|Comedy|Sci-Fi,0.9999999999999101,0.699999999999937
+2571,"Matrix, The (1999)",Action|Sci-Fi|Thriller,0.9999999999998737,0.6999999999999115
+2628,Star Wars: Episode I - The Phantom Menace (1999),Action|Adventure|Sci-Fi,0.9999999999998644,0.699999999999905
+5378,Star Wars: Episode II - Attack of the Clones (2002),Action|Adventure|Sci-Fi|IMAX,0.9999999999997621,0.6999999999998334
+33493,Star Wars: Episode III - Revenge of the Sith (2005),Action|Adventure|Sci-Fi,0.9999999999995983,0.6999999999997187
+60069,WALL·E (2008),Adventure|Animation|Children|Romance|Sci-Fi,0.9999999999994383,0.6999999999996068

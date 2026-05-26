@@ -1,0 +1,11 @@
+movieId,title,genres,pagerank_norm,final_score
+1197,"Princess Bride, The (1987)",Action|Adventure|Comedy|Fantasy|Romance,1.0,1.0
+1265,Groundhog Day (1993),Comedy|Fantasy|Romance,0.816729068304908,0.7517103478134356
+1136,Monty Python and the Holy Grail (1975),Adventure|Comedy|Fantasy,0.7929962518568925,0.7350973762998247
+356,Forrest Gump (1994),Comedy|Drama|Romance|War,0.9024569023467454,0.7174341173570075
+260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,0.8726633776613973,0.7108643643629781
+1198,Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981),Action|Adventure,0.8413610129000327,0.7089527090300228
+1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,0.8666136483637016,0.706629553854591
+1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,0.838050639558824,0.6866354476911767
+6539,Pirates of the Caribbean: The Curse of the Black Pearl (2003),Action|Adventure|Comedy|Fantasy,0.6332757966614909,0.6832930576630436
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy,0.7794903272608187,0.6742146576540016

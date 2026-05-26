@@ -1,0 +1,11 @@
+movieId,title,genres,pagerank_norm,final_score
+924,2001: A Space Odyssey (1968),Adventure|Drama|Sci-Fi,1.0,1.0
+260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,0.9195630182885111,0.7936941128019577
+1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,0.8839925577921413,0.7687947904544988
+1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,0.863890502120558,0.7547233514843905
+1270,Back to the Future (1985),Adventure|Comedy|Sci-Fi,0.8301845754367851,0.7311292028057496
+480,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller,0.8362227173607792,0.7053559021525454
+3471,Close Encounters of the Third Kind (1977),Adventure|Drama|Sci-Fi,0.5712104738477709,0.6998473316934397
+356,Forrest Gump (1994),Comedy|Drama|Romance|War,0.9271608693827682,0.6990126085679378
+2571,"Matrix, The (1999)",Action|Sci-Fi|Thriller,0.908553344181465,0.6959873409270255
+3578,Gladiator (2000),Action|Adventure|Drama,0.7714580514433167,0.6900206360103217

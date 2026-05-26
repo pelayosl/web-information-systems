@@ -1,0 +1,11 @@
+movieId,title,genres,pagerank_norm,final_score
+57274,[REC] (2007),Drama|Horror|Thriller,0.9950266854810506,0.9965186798367354
+48394,"Pan's Labyrinth (Laberinto del fauno, El) (2006)",Drama|Fantasy|Thriller,0.9705174654098687,0.8293622257869081
+2762,"Sixth Sense, The (1999)",Drama|Horror|Mystery,0.9688591907626494,0.8282014335338546
+2959,Fight Club (1999),Action|Crime|Drama|Thriller,0.9862778721459058,0.810394510502134
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,0.9771505639997917,0.8040053947998541
+7438,Kill Bill: Vol. 2 (2004),Action|Drama|Thriller,0.9048610941319736,0.7834027658923814
+7022,Battle Royale (Batoru rowaiaru) (2000),Action|Drama|Horror|Thriller,0.7936859404364278,0.7805801583054994
+1214,Alien (1979),Horror|Sci-Fi,1.0,0.7749999999999999
+79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,0.9834355667487537,0.7634048967241276
+48780,"Prestige, The (2006)",Drama|Mystery|Sci-Fi|Thriller,0.916802194527936,0.7617615361695551

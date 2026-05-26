@@ -1,0 +1,11 @@
+movieId,title,genres,pagerank_norm,final_score
+44665,Lucky Number Slevin (2006),Crime|Drama|Mystery,1.0,1.0
+858,"Godfather, The (1972)",Crime|Drama,0.9022816169865641,0.8315971318905948
+318,"Shawshank Redemption, The (1994)",Crime|Drama,0.8974352350568984,0.8282046645398289
+5989,Catch Me If You Can (2002),Crime|Drama,0.8954604407656765,0.8268223085359736
+1221,"Godfather: Part II, The (1974)",Crime|Drama,0.8530101040012663,0.7971070728008864
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,0.9620504089651212,0.7934352862755848
+2959,Fight Club (1999),Action|Crime|Drama|Thriller,0.954249905247029,0.7879749336729203
+1213,Goodfellas (1990),Crime|Drama,0.8314313642329655,0.7820019549630759
+32587,Sin City (2005),Action|Crime|Film-Noir|Mystery|Thriller,0.9600527438441876,0.7720369206909312
+50,"Usual Suspects, The (1995)",Crime|Mystery|Thriller,0.876208093177336,0.7633456652241352

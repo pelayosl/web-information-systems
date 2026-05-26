@@ -1,0 +1,11 @@
+movieId,title,genres,pagerank_norm,final_score
+71379,Paranormal Activity (2009),Horror|Thriller,1.0,1.0
+66090,Eden Lake (2008),Horror|Thriller,0.9553512426373876,0.9687458698461713
+5891,I Spit on Your Grave (Day of the Woman) (1978),Horror|Thriller,0.9330268639560839,0.9531188047692587
+89208,Walled In (2009),Horror|Thriller,0.9330268639560702,0.9531188047692492
+57274,[REC] (2007),Drama|Horror|Thriller,0.9999999999999813,0.8999999999999868
+593,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller,0.955351242637374,0.8687458698461619
+1590,Event Horizon (1997),Horror|Sci-Fi|Thriller,0.9330268639560608,0.8531188047692426
+84189,I Spit on Your Grave (2010),Crime|Horror|Thriller,0.9330268639560517,0.8531188047692362
+1892,"Perfect Murder, A (1998)",Thriller,0.9776756213186593,0.8343729349230614
+4720,"Others, The (2001)",Drama|Horror|Mystery|Thriller,0.9776756213186453,0.8343729349230516

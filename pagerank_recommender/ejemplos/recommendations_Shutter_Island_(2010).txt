@@ -1,0 +1,11 @@
+movieId,title,genres,pagerank_norm,final_score
+74458,Shutter Island (2010),Drama|Mystery|Thriller,1.0,1.0
+79132,Inception (2010),Action|Crime|Drama|Mystery|Sci-Fi|Thriller|IMAX,0.9560377994841831,0.7977978882103567
+47,Seven (a.k.a. Se7en) (1995),Mystery|Thriller,0.7983858423536352,0.7588700896475447
+2959,Fight Club (1999),Action|Crime|Drama|Thriller,0.8852562017539477,0.7396793412277634
+4226,Memento (2000),Mystery|Thriller,0.7632931973983113,0.7343052381788178
+58559,"Dark Knight, The (2008)",Action|Crime|Drama|IMAX,0.9732189762337122,0.7312532833635985
+48780,"Prestige, The (2006)",Drama|Mystery|Sci-Fi|Thriller,0.7195972042845565,0.7287180429991895
+4878,Donnie Darko (2001),Drama|Mystery|Sci-Fi|Thriller,0.7159260364935299,0.726148225545471
+48516,"Departed, The (2006)",Crime|Drama|Thriller,0.8147628834796792,0.7203340184357754
+296,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller,0.8529180856213123,0.7170426599349186

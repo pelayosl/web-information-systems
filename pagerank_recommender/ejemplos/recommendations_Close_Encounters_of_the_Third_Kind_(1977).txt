@@ -1,0 +1,11 @@
+movieId,title,genres,pagerank_norm,final_score
+3471,Close Encounters of the Third Kind (1977),Adventure|Drama|Sci-Fi,1.0,1.0
+924,2001: A Space Odyssey (1968),Adventure|Drama|Sci-Fi,0.8494563783136945,0.8946194648195861
+260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,0.9421973060462642,0.8095381142323849
+1270,Back to the Future (1985),Adventure|Comedy|Sci-Fi,0.9382661415115994,0.8067862990581195
+1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,0.9229721046191512,0.7960804732334058
+1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,0.9036805670183371,0.782576396912836
+3994,Unbreakable (2000),Drama|Sci-Fi,0.823593428381092,0.7765153998667644
+3578,Gladiator (2000),Action|Adventure|Drama,0.8722701421105333,0.7605890994773733
+480,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller,0.9037500945614801,0.752625066193036
+1097,E.T. the Extra-Terrestrial (1982),Children|Drama|Sci-Fi,0.8536294901505808,0.7475406431054065

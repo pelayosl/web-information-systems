@@ -1,0 +1,11 @@
+movieId,title,genres,pagerank_norm,final_score
+1240,"Terminator, The (1984)",Action|Sci-Fi|Thriller,1.0,1.0
+2571,"Matrix, The (1999)",Action|Sci-Fi|Thriller,0.9617516479237528,0.973226153546627
+589,Terminator 2: Judgment Day (1991),Action|Sci-Fi,0.9354883530095865,0.8548418471067105
+480,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller,0.8967131124736862,0.8526991787315803
+541,Blade Runner (1982),Action|Sci-Fi|Thriller,0.7779185752726847,0.8445430026908793
+780,Independence Day (a.k.a. ID4) (1996),Action|Adventure|Sci-Fi|Thriller,0.8736402444184768,0.8365481710929337
+1196,Star Wars: Episode V - The Empire Strikes Back (1980),Action|Adventure|Sci-Fi,0.9378113772786588,0.8064679640950612
+1210,Star Wars: Episode VI - Return of the Jedi (1983),Action|Adventure|Sci-Fi,0.9352115251843817,0.8046480676290672
+260,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi,0.9317717338160333,0.8022402136712233
+1036,Die Hard (1988),Action|Crime|Thriller,0.8547199168024596,0.7483039417617218
