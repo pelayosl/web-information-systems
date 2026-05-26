@@ -1,0 +1,4 @@
+https://www.uc3m.es/inicio
+https://en.wikipedia.org/wiki/Dromaeosauroides
+https://imgs.search.brave.com/svURg7hLcheB_QTadSImjI1Q8zrEJkpXXyGQ2JT0D24/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTMy/NDE4OTY4Ny9mci9w/aG90by9hcmMtZGUt/dHJpb21waGUtZHUt/Y2llbC1wYXJpcy5q/cGc_cz02MTJ4NjEy/Jnc9MCZrPTIwJmM9/ZFY5bXVfRlNWdEJ5/SHA5OTVvZ1VwS1g4/WWJaOGR5amF3UnpB/RFNmT0tWRT0
+https://www.geeksforgeeks.org/python/python-string-strip/
